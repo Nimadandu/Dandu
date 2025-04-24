@@ -97,3 +97,22 @@ body{
    padding: 10px;
    
 }
+/* .maindiv{
+   justify-content: center;
+} */
+/* .projectclass{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+} */
+.projectlayout img{
+   height: 30%;
+   width: 30%;
+}
+.projectlayout h4{
+   text-align: center;
+}
+.projectlayout p{
+   text-align: center;
+}
+
